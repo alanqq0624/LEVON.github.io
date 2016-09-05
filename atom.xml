@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>LEVONBLOG</title>
+  <subtitle>其實title是亂打的(?)</subtitle>
+  <link href="/LEVONBLOG/atom.xml" rel="self"/>
+  
+  <link href="https://alanqq0624.github.io/LEVONBLOG/"/>
+  <updated>2016-09-05T13:34:59.151Z</updated>
+  <id>https://alanqq0624.github.io/LEVONBLOG/</id>
+  
+  <author>
+    <name>alanqq0624</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>你好-世界</title>
+    <link href="https://alanqq0624.github.io/LEVONBLOG/2016/09/05/%E4%BD%A0%E5%A5%BD-%E4%B8%96%E7%95%8C/"/>
+    <id>https://alanqq0624.github.io/LEVONBLOG/2016/09/05/你好-世界/</id>
+    <published>2016-09-05T01:32:10.000Z</published>
+    <updated>2016-09-05T13:34:59.151Z</updated>
+    
+    <content type="html"><![CDATA[<p>翻譯並修改hello-world.md的意義主要在於以防我忘記如何打hexo日誌ww</p>
+<hr>
+<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="創建一篇文章"><a href="#創建一篇文章" class="headerlink" title="創建一篇文章"></a>創建一篇文章</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new  <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="在本機上開server"><a href="#在本機上開server" class="headerlink" title="在本機上開server"></a>在本機上開server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>要注意就是hexo3把server的功能拉掉獨立出來了<br>所以要先裝hexo-server</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ npm install hexo-server --save</div></pre></td></tr></table></figure>
+<p>然後記得不要在_config.yml 中用plugin指明插件，並保證在package.json中存在hexo-server<br>不要問我為什麼<br>我也很想知道<br>我卡在這裡很久<br>問題是在command line上打”hexo server”<br>長這樣<br><img src="http://i.imgur.com/ukQwnR0.png" alt=""><br>他卻表現得像hexo 沒有sever這個指令一樣<br>最後趴文莫名找到<a href="https://www.zhihu.com/question/28847824" target="_blank" rel="external">這篇</a></p>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<p>###產生靜態檔案</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>……話說這可以幹嘛啊??<br>產生檔案??<br>額~<br>不小心誤刪什麼東東回復用嗎??</p>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="部屬網站到線上"><a href="#部屬網站到線上" class="headerlink" title="部屬網站到線上"></a>部屬網站到線上</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>…..該不會每次都要登入GitHub八OAO<br>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;翻譯並修改hello-world.md的意義主要在於以防我忘記如何打hexo日誌ww&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! Thi
+    
+    </summary>
+    
+      <category term="hexo" scheme="https://alanqq0624.github.io/LEVONBLOG/categories/hexo/"/>
+    
+    
+      <category term="test" scheme="https://alanqq0624.github.io/LEVONBLOG/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://alanqq0624.github.io/LEVONBLOG/2016/08/24/test/"/>
+    <id>https://alanqq0624.github.io/LEVONBLOG/2016/08/24/test/</id>
+    <published>2016-08-24T14:31:14.000Z</published>
+    <updated>2016-09-05T13:07:53.921Z</updated>
+    
+    <content type="html"><![CDATA[<p>話說這是我第一次用BLOGㄟ<br>怎麼用呢ㄎㄎ</p>
+<h1 id="這是h1"><a href="#這是h1" class="headerlink" title="這是h1"></a>這是h1</h1><h2 id="這是h2"><a href="#這是h2" class="headerlink" title="這是h2"></a>這是h2</h2><h3 id="這是h3"><a href="#這是h3" class="headerlink" title="這是h3"></a>這是h3</h3><h4 id="這是h4"><a href="#這是h4" class="headerlink" title="這是h4"></a>這是h4</h4><h5 id="這是h5"><a href="#這是h5" class="headerlink" title="這是h5"></a>這是h5</h5><h6 id="這是h6"><a href="#這是h6" class="headerlink" title="這是h6"></a>這是h6</h6><h3 id="hashtag”-”後要空一格"><a href="#hashtag”-”後要空一格" class="headerlink" title="hashtag”#”後要空一格"></a>hashtag”#”後要空一格</h3><h3 id="結論是"><a href="#結論是" class="headerlink" title="結論是"></a>結論是</h3><p>我要去學markdown了<br>還要學打字阿QAQ<br>打字太慢了啊啊啊啊啊<br>還有修一下這個HEXO</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;話說這是我第一次用BLOGㄟ&lt;br&gt;怎麼用呢ㄎㄎ&lt;/p&gt;
+&lt;h1 id=&quot;這是h1&quot;&gt;&lt;a href=&quot;#這是h1&quot; class=&quot;headerlink&quot; title=&quot;這是h1&quot;&gt;&lt;/a&gt;這是h1&lt;/h1&gt;&lt;h2 id=&quot;這是h2&quot;&gt;&lt;a href=&quot;#這是h2&quot; cla
+    
+    </summary>
+    
+      <category term="hexo" scheme="https://alanqq0624.github.io/LEVONBLOG/categories/hexo/"/>
+    
+    
+      <category term="test" scheme="https://alanqq0624.github.io/LEVONBLOG/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://alanqq0624.github.io/LEVONBLOG/2016/08/24/hello-world/"/>
+    <id>https://alanqq0624.github.io/LEVONBLOG/2016/08/24/hello-world/</id>
+    <published>2016-08-23T23:32:10.000Z</published>
+    <updated>2016-08-24T13:33:19.049Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
