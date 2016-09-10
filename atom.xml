@@ -5,7 +5,7 @@
   <link href="/LEVONBLOG/atom.xml" rel="self"/>
   
   <link href="https://alanqq0624.github.io/LEVONBLOG/"/>
-  <updated>2016-09-05T13:34:59.151Z</updated>
+  <updated>2016-09-10T15:52:40.449Z</updated>
   <id>https://alanqq0624.github.io/LEVONBLOG/</id>
   
   <author>
@@ -14,6 +14,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>markdown I</title>
+    <link href="https://alanqq0624.github.io/LEVONBLOG/2016/09/11/markdown-I/"/>
+    <id>https://alanqq0624.github.io/LEVONBLOG/2016/09/11/markdown-I/</id>
+    <published>2016-09-10T16:22:04.000Z</published>
+    <updated>2016-09-10T15:52:40.449Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="MARKDOWN-LEARNING"><a href="#MARKDOWN-LEARNING" class="headerlink" title="MARKDOWN LEARNING"></a>MARKDOWN LEARNING</h2><p>本來希望可以一次打完阿<br>不過好像有困難OAO<br>基礎上是參考<a href="http://markdown.tw/" target="_blank" rel="external">http://markdown.tw/</a></p>
+<h3 id="跳脫字元”-“"><a href="#跳脫字元”-“" class="headerlink" title="跳脫字元”\“"></a>跳脫字元”\“</h3><p>大概就是只要符號前面打上<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">\</div></pre></td></tr></table></figure></p>
+<p>那個符號不會發揮它本來的用處<br>而純粹當作”符號字”在實際呈現上顯示出來<br>可以用在這些符號上<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div></pre></td><td class="code"><pre><div class="line">\   反斜線</div><div class="line">`   反引號</div><div class="line">*   星號</div><div class="line">_   底線</div><div class="line">&#123;&#125;  大括號</div><div class="line">[]  方括號</div><div class="line">()  括號</div><div class="line">#   井字號</div><div class="line">+   加號</div><div class="line">-   減號</div><div class="line">.   英文句點</div><div class="line">!   驚嘆號</div></pre></td></tr></table></figure></p>
+<p>先講這個當然是之後打這篇文章應該用的到wwww</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;MARKDOWN-LEARNING&quot;&gt;&lt;a href=&quot;#MARKDOWN-LEARNING&quot; class=&quot;headerlink&quot; title=&quot;MARKDOWN LEARNING&quot;&gt;&lt;/a&gt;MARKDOWN LEARNING&lt;/h2&gt;&lt;p&gt;本來希望可以一次打完
+    
+    </summary>
+    
+      <category term="coding" scheme="https://alanqq0624.github.io/LEVONBLOG/categories/coding/"/>
+    
+    
+      <category term="markdown" scheme="https://alanqq0624.github.io/LEVONBLOG/tags/markdown/"/>
+    
+  </entry>
   
   <entry>
     <title>你好-世界</title>
